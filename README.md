@@ -1,5 +1,4 @@
 # __Blackjack__
-#### Video demo: https://youtu.be/2SC16Yl2Wqs
 ## Description:
 ### Introduction
 For my CS50p final project, I decided to create a simple, text-based version
